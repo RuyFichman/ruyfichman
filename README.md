@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://mail.google.com/mail/?view=cm&to=ruyfichman.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-0B1A3D?style=for-the-badge&logo=gmail&logoColor=7FD3FF" alt="Gmail" /></a>
   <a href="https://github.com/ruyfichman?tab=followers"><img src="https://img.shields.io/github/followers/ruyfichman?style=for-the-badge&logo=github&logoColor=7FD3FF&label=Followers&labelColor=0B1A3D&color=1B4FD6" alt="GitHub followers" /></a>
-  <img src="https://komarev.com/ghpvc/?username=ruyfichman&style=for-the-badge&color=1b4fd6&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=RuyFichman.ruyfichman&left_text=Profile%20Views&left_color=%230B1A3D&right_color=%231B4FD6" height="28" alt="Profile views" />
 </div>
 
 <h3 align="center">Full-Stack Developer crafting scalable business solutions worldwide</h3>
@@ -38,11 +38,11 @@ object RuyFichman {
 
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ruyfichman&bg_color=0B1A3D&color=7FD3FF&line=1B4FD6&point=FFFFFF&area=true&area_color=1B4FD6&hide_border=true&title_color=7FD3FF" alt="Contribution activity graph" />
+  <img width="100%" src="https://ghchart.rshah.org/1B4FD6/RuyFichman" alt="Contribution graph" />
 </div>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
-  <img src="./assets/hyperspace-footer.svg" width="100%" alt="May the code be with you" />
+  <img src="./assets/hyperspace-footer.svg" width="100%" alt="Thanks for stopping by" />
 </div>
