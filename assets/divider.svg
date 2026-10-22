@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="24" viewBox="0 0 1200 24" role="img" aria-label="divider">
+<title>divider</title>
+<style>
+.bolt{animation:race 2.8s cubic-bezier(.7,0,.3,1) infinite}
+.bolt.b2{animation-delay:-1.4s;opacity:.55}
+@keyframes race{0%{transform:translateX(-420px)}100%{transform:translateX(1260px)}}
+@media (prefers-reduced-motion:reduce){.bolt{animation:none;transform:translateX(400px)}}
+</style>
+<defs>
+  <linearGradient id="trail" x1="0" x2="1">
+    <stop offset="0" stop-color="#3d9bff" stop-opacity="0"/>
+    <stop offset=".8" stop-color="#7fd3ff" stop-opacity=".9"/>
+    <stop offset="1" stop-color="#ffffff"/>
+  </linearGradient>
+  <linearGradient id="rail" x1="0" x2="1">
+    <stop offset="0" stop-color="#3d9bff" stop-opacity="0"/>
+    <stop offset=".5" stop-color="#3d9bff" stop-opacity=".45"/>
+    <stop offset="1" stop-color="#3d9bff" stop-opacity="0"/>
+  </linearGradient>
+  <filter id="soft" x="-10%" y="-200%" width="120%" height="500%"><feGaussianBlur stdDeviation="2.2"/></filter>
+  <clipPath id="frame"><rect width="1200" height="24"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+  <rect x="0" y="11.5" width="1200" height="1" fill="url(#rail)"/>
+  <g class="bolt"><rect x="0" y="9" width="360" height="6" rx="3" fill="url(#trail)" filter="url(#soft)"/><rect x="0" y="11" width="360" height="2" rx="1" fill="url(#trail)"/><circle cx="358" cy="12" r="2.6" fill="#fff"/></g><g class="bolt b2"><rect x="0" y="9" width="360" height="6" rx="3" fill="url(#trail)" filter="url(#soft)"/><rect x="0" y="11" width="360" height="2" rx="1" fill="url(#trail)"/><circle cx="358" cy="12" r="2.6" fill="#fff"/></g>
+</g>
+</svg>
