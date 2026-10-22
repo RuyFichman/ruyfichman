@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/ruyfichman">
-    <img src="./assets/hyperspace-header.svg" width="100%" alt="Ruy Fichman — Full-Stack Developer, jumping to lightspeed" />
+    <img src="./assets/hyperspace-header.svg?v=2" width="100%" alt="Ruy Fichman — Full-Stack Developer, jumping to lightspeed" />
   </a>
 </div>
 
@@ -12,7 +12,7 @@
 
 <h3 align="center">Full-Stack Developer crafting scalable business solutions worldwide</h3>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./assets/divider.svg?v=2" width="100%" alt="" />
 
 ## 🛰️ Mission Log
 
@@ -27,22 +27,22 @@ object RuyFichman {
 }
 ```
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./assets/divider.svg?v=2" width="100%" alt="" />
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=spring,java,react,nextjs,vue,bootstrap,tailwind,docker,redis,postgres,supabase,js,ts,kotlin,html,css&perline=16"
         alt="Tech Stack" />
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./assets/divider.svg?v=2" width="100%" alt="" />
 
 
 <div align="center">
   <img width="100%" src="https://ghchart.rshah.org/1B4FD6/RuyFichman" alt="Contribution graph" />
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./assets/divider.svg?v=2" width="100%" alt="" />
 
 <div align="center">
-  <img src="./assets/hyperspace-footer.svg" width="100%" alt="Thanks for stopping by" />
+  <img src="./assets/hyperspace-footer.svg?v=2" width="100%" alt="Thanks for stopping by" />
 </div>
